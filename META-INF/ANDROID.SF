@@ -1,0 +1,32 @@
+Signature-Version: 1.0
+Created-By: Android Gradle 8.0.2
+SHA-256-Digest-Manifest: PYVmtCY0pj2H8bOP8U7WTPpKLGlRjIzV2E+xCc+pIPM=
+X-Android-APK-Signed: 2,3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: ze1rcmQR4CCenpYU5/VAPFPsgaXLKY0tvlwA3+vJl1M=
+
+Name: classes.dex
+SHA-256-Digest: avScexjcEPT4OuCH6DiqNsMeo6Llz5BxDQrwSmOnANQ=
+
+Name: classes2.dex
+SHA-256-Digest: UyL3IPHsZSgtyBgf7kL1QBX5maUiMdvURa64DhAx9Os=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA-256-Digest: p/V7JLIdyFkvIzrXelPLb+jTAiK5saPmsA8Iu881F5w=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA-256-Digest: aktsDrhwy3ex8ad59r3aoV+5TJncFYVy98Lcvjc4s44=
+
+Name: res/layout/main.xml
+SHA-256-Digest: bzMX7yLsd1sytbH4Qhs8kghC3idzw6+QKDnDuUD3NVs=
+
+Name: resources.arsc
+SHA-256-Digest: Ai8beSJDaoXnPv1m0NQ3L8GjoAcZBQaPRLwguV/tZPU=
+
+Name: src/2e15f58d32a5ff652706ef41ec85a763
+SHA-256-Digest: dJkYBnbv8fm9jFu+WP3Eobl4NQ3uIWGaR0eE0qFy0M0=
+
+Name: src/3676d55f84497cbeadfc614c1b1b62fc
+SHA-256-Digest: YROPAOG4ilixW/VWEDXGZeh9Hrd7xVUD7LzCsJosiak=
+

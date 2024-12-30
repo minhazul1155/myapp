@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: Android Gradle 8.0.2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: MIomTl3e9O7DVxWQ/697jz1fqDQ7AZ4zb05YgW75jrI=
+
+Name: classes.dex
+SHA-256-Digest: ZLarfyCWJ2Oe0DnY2SpMry5Oxsknjb6o9jE48EssgJ8=
+
+Name: classes2.dex
+SHA-256-Digest: VxP+lvxgsmlr28qlHpUQeVOcGsCFb88Mh77sCgvYpm0=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA-256-Digest: UFdiRhxUiaE0ogD+3gss3xL20muwrtr+GHjQgNm27dc=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA-256-Digest: B0d9ijOaAGx/hf4odj1JhA/R45GJYIgbcpizgNCiiUc=
+
+Name: res/layout/main.xml
+SHA-256-Digest: xb+bkO3yQbg2FuWWzOmzetPrgmC6Qk/5cJyfS1IxQ/g=
+
+Name: resources.arsc
+SHA-256-Digest: 768ZTrBnvwTwUA/cEVFVi+z4nZ7R7s6tLGVX2u/4GeI=
+
+Name: src/2e15f58d32a5ff652706ef41ec85a763
+SHA-256-Digest: 4z6CMSAj9f1bpTCfobV1TxFx7yNC460sJ5fbCTpyGWQ=
+
+Name: src/3676d55f84497cbeadfc614c1b1b62fc
+SHA-256-Digest: LZqkQ5VGPbziJAddrc3vA9t2Hh4n9/ZVbrTIu7yWB7Y=
+
